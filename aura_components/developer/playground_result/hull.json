@@ -1,0 +1,14 @@
+{
+  "name": "developer/playground_result",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "result.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:36.955Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "conversations/participants",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "participants.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:35.549Z"
+}

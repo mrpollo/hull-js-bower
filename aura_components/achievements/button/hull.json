@@ -1,0 +1,15 @@
+{
+  "name": "achievements/button",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "button.hbs",
+      "error.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:34.649Z"
+}

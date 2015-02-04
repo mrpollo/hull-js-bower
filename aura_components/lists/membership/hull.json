@@ -1,0 +1,19 @@
+{
+  "name": "lists/membership",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "header.hbs",
+      "items.hbs",
+      "loggedOut.hbs",
+      "main.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "bootstrap-popover.js",
+      "bootstrap-tooltip.js",
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:37.269Z"
+}

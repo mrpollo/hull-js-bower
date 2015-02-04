@@ -1,0 +1,14 @@
+{
+  "name": "admin/reset",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "reset.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:35.153Z"
+}

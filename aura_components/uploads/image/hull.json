@@ -1,0 +1,16 @@
+{
+  "name": "uploads/image",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "file.hbs",
+      "upload.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "fileupload.js",
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:37.951Z"
+}

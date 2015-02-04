@@ -1,0 +1,14 @@
+{
+  "name": "ratings/stars",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "stars.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:37.582Z"
+}

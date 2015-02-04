@@ -1,0 +1,15 @@
+{
+  "name": "lists/content",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "content.hbs",
+      "item.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:37.229Z"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "admin/quiz",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "admin.hbs",
+      "form.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:34.957Z"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "uploads/video",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "upload.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "fileupload.js",
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:38.148Z"
+}

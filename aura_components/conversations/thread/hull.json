@@ -1,0 +1,16 @@
+{
+  "name": "conversations/thread",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "form.hbs",
+      "participants.hbs",
+      "thread.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:35.578Z"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "login/shopify",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "default.hbs"
+    ],
+    "stylesheets": [
+      "style.css"
+    ],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:37.458Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "admin/achievements",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "main.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:34.851Z"
+}

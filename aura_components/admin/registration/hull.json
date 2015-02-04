@@ -1,0 +1,15 @@
+{
+  "name": "admin/registration",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "registration.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "h5f.js",
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:35.057Z"
+}

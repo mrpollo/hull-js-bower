@@ -1,0 +1,14 @@
+{
+  "name": "login/link",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "linking.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:37.391Z"
+}

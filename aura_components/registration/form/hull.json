@@ -1,0 +1,17 @@
+{
+  "name": "registration/form",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "complete.hbs",
+      "form.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "h5f.js",
+      "main.js",
+      "parsley.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:37.641Z"
+}

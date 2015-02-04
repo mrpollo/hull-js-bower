@@ -1,0 +1,21 @@
+{
+  "name": "games/sweepstake",
+  "version": "ds_1.5_ember",
+  "files": {
+    "templates": [
+      "buttons.hbs",
+      "ended.hbs",
+      "intro.hbs",
+      "lost.hbs",
+      "played.hbs",
+      "unstarted.hbs",
+      "won.hbs",
+      "working.hbs"
+    ],
+    "stylesheets": [],
+    "javascripts": [
+      "main.js"
+    ]
+  },
+  "buildDate": "2015-02-04T07:09:37.084Z"
+}
