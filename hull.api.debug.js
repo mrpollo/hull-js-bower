@@ -5014,7 +5014,7 @@ return Q;
 
 }).call(this);
 
-define('lib/utils/version',[],function () { return 'ds_1.5_ember';});
+define('lib/utils/version',[],function () { return '0.8.39';});
 (function() {
 
   define('lib/api/params',['underscore'], function(_) {

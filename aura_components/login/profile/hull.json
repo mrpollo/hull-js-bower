@@ -1,6 +1,6 @@
 {
   "name": "login/profile",
-  "version": "ds_1.5_ember",
+  "version": "0.8.39",
   "files": {
     "templates": [
       "profile.hbs"

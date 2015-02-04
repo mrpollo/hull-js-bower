@@ -1,6 +1,6 @@
 {
   "name": "conversations/thread",
-  "version": "ds_1.5_ember",
+  "version": "0.8.39",
   "files": {
     "templates": [
       "form.hbs",
