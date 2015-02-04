@@ -1,0 +1,21 @@
+{
+  "name": "hull-js-bower",
+  "version": "0.8.39",
+  "homepage": "https://github.com/mrpollo/hull-js-bower",
+  "authors": [
+    "Hull"
+  ],
+  "description": "Hull.js bower distribution",
+  "main": "hull.js",
+  "keywords": [
+    "hull.js",
+    "bower"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
